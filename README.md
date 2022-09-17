@@ -34,6 +34,7 @@ GetX has a huge ecosystem, a large community, a large number of collaborators, a
 
 - Add Student details
 - Unique UI design
+- GetX as a State Manager.
 - List students in a Screen.
 - Upload image of a student using image picker dependencies.
 - Edit Student details
